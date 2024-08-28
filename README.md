@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Burak</h1>
-<h3>A full stack developer, and a web enthusiast who loves working with JavaScript technologies and learning Computer Science. I am also passionate about interacting with new technologies related to web.</h3>
+<h3>A full stack developer who loves working with the new technologies related to web.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
